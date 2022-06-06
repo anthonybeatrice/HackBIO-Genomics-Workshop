@@ -1,0 +1,3 @@
+FIRSTNAME="Boluwatife"
+LASTNAME="Anthony"
+echo "$FIRSTNAME\n$LASTNAME"
